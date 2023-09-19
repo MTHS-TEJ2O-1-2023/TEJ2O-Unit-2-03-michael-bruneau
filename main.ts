@@ -8,4 +8,4 @@
 basic.clearScreen()
 basic.pause(1000)
 
-basic.showString((2 * (3 + 5)).toString())
+basic.showString('2(3 + 5 =)' + (2 * (3 + 5)).toString())
