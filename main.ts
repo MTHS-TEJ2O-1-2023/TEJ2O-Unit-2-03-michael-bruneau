@@ -8,4 +8,4 @@
 basic.clearScreen()
 basic.pause(1000)
 
-basic.showString(('A rectangle has dimensions 5 cm and 3 cm The perimeter would be:') + (2 *(3 + 5)).toString() + ('cm') + ('The area would be:') + (3 * 5).toString() + ('cm^2'))
+basic.showString(('A rectangle has dimensions 5 cm & 3 cm The perimeter would be:') + (2 * (3 + 5)).toString() + ('cm') + ('Thr area would be:') + (3 * 5).toString() + ('cm^2'))
