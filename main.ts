@@ -8,4 +8,4 @@
 basic.clearScreen()
 basic.pause(1000)
 
-basic.showString(('a = l x w or a = 5 cm x 3 cm p = 2(l + w) or p = 2(5 cm + 3 cm) Area would be:') + (5 * 3).toString() + ('cm^2') + ('Perimeter would be:') + (2 * (5 + 3)).toString() + ('cm'))
+basic.showString(('A rectangle has dimensions 5 cm and 3 cm The perimeter would be:') + (2 *(3 + 5)).toString() + ('cm') + ('The area would be:') + (3 * 5).toString() + ('cm^2'))
